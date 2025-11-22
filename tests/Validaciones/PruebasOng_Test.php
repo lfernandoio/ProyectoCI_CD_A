@@ -11,7 +11,7 @@ class  PruebasOng_Test extends TestCase{
     }
     public function testuno():void
     {
-        $this->assertTrue(true);
+        $this->assertTrue(false);
     }
     public function testdos():void{
         $this->assertTrue(true);
